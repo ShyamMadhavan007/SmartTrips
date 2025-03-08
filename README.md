@@ -2,8 +2,6 @@
   <h1 align="center">SmartTrips</h1 >
   
 
-  <div align="center">
-
   <h3>AI-Based Trip Planner</h3>
 
   <p align="center">
