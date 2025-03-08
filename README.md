@@ -3,12 +3,6 @@
   
 
   <div align="center">
-  <h2 align="center">Stats</h2 >
-  
-  ![GitHub forks](https://img.shields.io/github/forks/satendra03/trip-planner-by-satendra) <br/>
-  ![GitHub Repo stars](https://img.shields.io/github/stars/satendra03/trip-planner-by-satendra) <br/>
-  ![GitHub watchers](https://img.shields.io/github/watchers/satendra03/trip-planner-by-satendra)   -->
-</div>
 
   <h3>AI-Based Trip Planner</h3>
 
