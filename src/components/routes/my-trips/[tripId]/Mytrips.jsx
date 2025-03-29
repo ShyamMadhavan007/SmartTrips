@@ -33,7 +33,7 @@ function Mytrips() {
   return (
     <div className='py-2'>
       <Locationinfo/>
-      {/* <Hotels/> */}
+      <Hotels/> 
       <Places/>
     </div>
   )
